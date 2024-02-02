@@ -1,7 +1,7 @@
 Movie Search App with React and OMDB API
 Overview
 Welcome to the Movie Search App! This project is a simple web application built with React that allows users to search for movies and view detailed information using the OMDB API (Open Movie Database). Whether you're a movie enthusiast or just curious about a particular film, this app provides an easy way to explore a vast database of movies.
-
+ 
 Features
 > Search Movies: Users can enter a movie title in the search bar to find relevant results.
 > View Movie Details: Clicking on a search result displays detailed information about the selected movie, including title, year, plot, and more.
